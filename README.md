@@ -7,3 +7,11 @@ cd game
 python3 main.py
 ```
 
+```sh
+git clone
+cd game
+source my_env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```
+
